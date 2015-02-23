@@ -1,0 +1,11 @@
+{
+    "movie": {
+        "id": 23
+    },
+    "artist":{
+        "id": 24
+    },
+    "character":{
+        "id": 25
+    }
+}
